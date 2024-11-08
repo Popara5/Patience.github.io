@@ -22,13 +22,14 @@ repository               : "Popara5/Patience.github.io"
 author:
   # Biographic information
   avatar           : "profile.png"
-  name             : "Your Sidebar Name"
-  pronouns         : # example: "she/her"  
-  bio              : "Short biography for the left-hand sidebar"
+  name             : "Patience Opara"
+  pronouns         : "she/her"  
+  Clearance        : "Active Public Trust Security Clearance"
+  bio              : "Cloud Engineer with an Active public trust Security Clearance with over 5 years of experience architecting and managing robust Azure environments, ensuringsecurity and high availability. Demonstrates expertise inoptimizing cloud infrastructures through automation andcompliance, leveraging advanced networking and disaster recovery solutions to enhance business continuity. Passionate about driving innovation in cloud services and committed to delivering scalable, costeffective solutions."
   location         : "Earth"
-  employer         : "Red Brick University"
+  employer         : "Focus Management FMI"
   uri              : # URL
-  email            : "none@example.org" 
+  email            : "poparatech5@gmail.com" 
 
   # Academic websites
   arxiv            : # URL - Update with the correct link to your profile
